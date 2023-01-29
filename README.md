@@ -1,3 +1,4 @@
 # investment_research
-Stakeholder: Xiang, Lu
+Stakeholder: 
+
 1st Xiang
